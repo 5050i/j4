@@ -14,7 +14,7 @@
     <title>Title</title>
 </head>
 <body>
-<h1>show.jsp</h1>
+<h1>show.jsp。。。。。</h1>
     <table align="center" border="1" width="60%">
         <tr align="center">
             <td>序号</td><td>姓名</td><td>年龄</td>
